@@ -18,7 +18,7 @@ function cacher() {
     <nav class="justify-center items-center">
       <ul class="space-x-7 font-medium flex items-center">
         <li>
-          <RouterLink class="text-white" to="/acceuil">ACCEUIL</RouterLink>
+          <RouterLink class="text-white" to="/">ACCEUIL</RouterLink>
         </li>
         <li><RouterLink class="text-white" to="/services">NOS SERVICES</RouterLink></li>
         <li><RouterLink class="text-white" to="/catalogue">VEHICULES</RouterLink></li>

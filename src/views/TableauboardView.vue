@@ -8,7 +8,7 @@ import { useRouter } from 'vue-router';
 </script>
 
 <template>
-  <!-- <div class=" w-screen h-screen flex">
+   <div class=" w-screen h-screen flex">
     <div class="w-[400px] h-full bg-gray-200 text-white">
       <div class="h-[50px] bg-gray-900 flex justify-start items-center">
         <div class="px-[20px]">
@@ -35,7 +35,7 @@ import { useRouter } from 'vue-router';
     </div>
    
   </div>
-   -->
+  
 
 
 
